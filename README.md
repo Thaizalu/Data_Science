@@ -19,7 +19,9 @@ Estudante de TI, estagiária em análise de dados. Esse repositório contém os 
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
-* **Em construção**
+* Analisando os Dados do Airbnb - Rio de Janeiro: https://bitlybr.com/iNvR
+* Analisando os Dados do Airbnb - Tasmânia:
+* Panorama do COVID-19:
 
 
 ---
