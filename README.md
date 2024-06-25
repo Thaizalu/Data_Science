@@ -22,6 +22,7 @@ Veja os tutoriais publicados do Sigmoidal:
 * Analisando os Dados do Airbnb - Rio de Janeiro: https://bitlybr.com/xvtI 
 * Analisando os Dados do Airbnb - Tasmânia: https://bitlybr.com/mdQa
 * Panorama do COVID-19: https://bitlybr.com/rpuL
+* Detecção de Fraudes em Cartões de Crédito: https://bitlybr.com/bgZm
 
 
 ---
